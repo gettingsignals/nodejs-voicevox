@@ -1,0 +1,13 @@
+header h1 {
+  font-size: 60pt;
+  background-color: darkcyan;
+  color: #eee;
+  text-align: left;
+  margin: 50px;
+}
+
+body {
+  font-size: 14pt;
+  color: #999;
+  margin: 5px;    
+}
